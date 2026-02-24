@@ -1,0 +1,11 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900'>
+<rect width='1600' height='900' fill='#bcbcbc'/>
+<rect x='180' y='80' width='760' height='720' fill='#d8d8d8'/>
+<g fill='#646464' font-family='Courier New' font-size='56'>
+<text x='240' y='250'>all those songs in one small room</text>
+<text x='240' y='370'>we sang and shared the moon</text>
+<text x='240' y='490'>we've got enough</text>
+</g>
+<rect x='980' y='120' width='420' height='680' fill='#8d8d8d' opacity='0.5'/>
+<text x='70' y='860' font-size='90' fill='#3a3a3a' font-family='Arial'>LYRICS</text>
+</svg>
