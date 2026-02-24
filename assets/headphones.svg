@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 1200'>
+<defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='#c8beb0'/><stop offset='1' stop-color='#8f8275'/></linearGradient></defs>
+<rect width='1600' height='1200' fill='url(#g)'/>
+<circle cx='1050' cy='650' r='260' fill='#2f2f31'/>
+<circle cx='1050' cy='650' r='190' fill='#181818'/>
+<rect x='250' y='760' width='900' height='120' fill='#7e6856'/>
+<text x='90' y='1080' font-size='92' fill='#2A2421' font-family='Arial'>HEADPHONES</text>
+</svg>

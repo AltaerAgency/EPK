@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 1200'>
+<rect width='1600' height='1200' fill='#d5d5d5'/>
+<rect x='320' y='120' width='140' height='900' fill='#202020'/>
+<rect x='610' y='90' width='130' height='950' fill='#3b3b3b'/>
+<rect x='900' y='110' width='120' height='900' fill='#161616'/>
+<circle cx='1250' cy='600' r='210' fill='#555'/><circle cx='1250' cy='600' r='120' fill='#2d2d2d'/>
+<text x='70' y='1120' font-size='90' fill='#1f1f1f' font-family='Arial'>GUITARS</text>
+</svg>
