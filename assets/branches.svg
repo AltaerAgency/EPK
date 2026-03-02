@@ -1,0 +1,9 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900'>
+<rect width='1600' height='900' fill='#b7b7b7'/>
+<g stroke='#1f1f1f' stroke-width='12'>
+<line x1='0' y1='100' x2='1500' y2='700'/><line x1='200' y1='0' x2='1300' y2='900'/><line x1='1400' y1='0' x2='300' y2='900'/>
+<line x1='700' y1='0' x2='500' y2='900'/><line x1='1100' y1='150' x2='1500' y2='890'/>
+</g>
+<circle cx='1180' cy='460' r='110' fill='#f4f4f4' opacity='0.7'/>
+<text x='70' y='830' font-size='88' fill='#1f1f1f' font-family='Arial'>BRANCHES</text>
+</svg>
